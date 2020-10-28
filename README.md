@@ -1,6 +1,6 @@
 <h1>Tweet_Sentiment_Analysis</h1>
 
-<p>Every Tweet is divided into three class i.e.,</p>
+<h4>Every Tweet is divided into three class i.e.,</h4>
 <ul>
   <li>Positive/Extremely Positive(label = 1)</li>
   <li>Negative/Extremely Negactive(label = -1)</li>
