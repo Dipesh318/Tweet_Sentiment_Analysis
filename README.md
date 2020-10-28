@@ -16,3 +16,6 @@ As it is text data, I have used both <li><b><i>CountVectorization</i></b></li> <
   <li> RigidClassifier</li>
   <li> LogisticRegression </li>
 </ul>
+
+
+<p> For every model, their ROC_AUC Score as well as Accuracy Score are predicted with different parameter. </p>
