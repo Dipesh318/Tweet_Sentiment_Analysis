@@ -19,3 +19,5 @@ As it is text data, I have used both <li><b><i>CountVectorization</i></b></li> <
 
 
 <p> For every model, their ROC_AUC Score as well as Accuracy Score are predicted with different parameter. </p>
+
+<p> PS : spellchecker() requires a lot of time to run. </p>
